@@ -1,4 +1,4 @@
-package com.example.qutaraga.myapplicationtestparsedelete;
+package com.example.qutaraga.myapplicationtestparsedelete.View;
 
 
 import android.os.Bundle;
@@ -11,9 +11,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import com.example.qutaraga.myapplicationtestparsedelete.Flickr.Flickr;
+import com.example.qutaraga.myapplicationtestparsedelete.Model.Flickr;
+import com.example.qutaraga.myapplicationtestparsedelete.Utils.MyList;
+import com.example.qutaraga.myapplicationtestparsedelete.R;
 import com.example.qutaraga.myapplicationtestparsedelete.Utils.EndlessRecyclerOnScrollListener;
-import com.example.qutaraga.myapplicationtestparsedelete.Utils.ImageAdapter;
 import com.example.qutaraga.myapplicationtestparsedelete.Utils.PhotoURL;
 
 import org.json.JSONArray;

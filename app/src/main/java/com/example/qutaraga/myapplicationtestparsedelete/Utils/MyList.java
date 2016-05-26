@@ -1,4 +1,4 @@
-package com.example.qutaraga.myapplicationtestparsedelete;
+package com.example.qutaraga.myapplicationtestparsedelete.Utils;
 /**Create own LinkedList.
  *@author Qutaraga.
  *@version 1.0

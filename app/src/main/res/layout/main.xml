@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    tools:context="com.example.qutaraga.myapplicationtestparsedelete.AndroidFlickrActivity">
+    tools:context="com.example.qutaraga.myapplicationtestparsedelete.View.AndroidFlickrActivity">
 
         <LinearLayout
             android:orientation="vertical"

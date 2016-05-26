@@ -1,4 +1,4 @@
-package com.example.qutaraga.myapplicationtestparsedelete.Flickr;
+package com.example.qutaraga.myapplicationtestparsedelete.Model;
 
 
 import java.io.BufferedReader;

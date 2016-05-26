@@ -1,4 +1,4 @@
-package com.example.qutaraga.myapplicationtestparsedelete.Utils;
+package com.example.qutaraga.myapplicationtestparsedelete.View;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -10,9 +10,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.qutaraga.myapplicationtestparsedelete.GetBitmapTask;
-import com.example.qutaraga.myapplicationtestparsedelete.MyList;
 import com.example.qutaraga.myapplicationtestparsedelete.R;
+import com.example.qutaraga.myapplicationtestparsedelete.Utils.GetBitmapTask;
+import com.example.qutaraga.myapplicationtestparsedelete.Utils.MyList;
+import com.example.qutaraga.myapplicationtestparsedelete.Utils.PhotoURL;
 
 public class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ViewHolder>{
 

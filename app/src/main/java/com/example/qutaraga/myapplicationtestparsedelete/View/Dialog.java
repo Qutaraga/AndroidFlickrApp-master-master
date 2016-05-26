@@ -1,4 +1,4 @@
-package com.example.qutaraga.myapplicationtestparsedelete;
+package com.example.qutaraga.myapplicationtestparsedelete.View;
 
 
 import android.app.ProgressDialog;
